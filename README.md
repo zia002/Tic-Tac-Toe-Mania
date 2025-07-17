@@ -14,5 +14,3 @@
 5.Minimax and Alpha beta pruning for bot  optimal play <br>
 6.Bot move execution using coroutine  <br>
 
-# NB:
-no code base here . soon it will be available in google play store
