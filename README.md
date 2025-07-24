@@ -6,7 +6,6 @@
 
 Explore Exciting Game's:
 ![Image](https://github.com/user-attachments/assets/845336fc-f134-4af9-9ded-ebe051e49037)
-![Image](https://github.com/user-attachments/assets/51670922-59ad-4198-922b-cfdbb9586c35)
 
 Enjoy Tic Tac Toe Mania
 ![BeFunky-collage (1)](https://github.com/user-attachments/assets/d3e457ee-efed-4401-99f0-b841f0703e45)
